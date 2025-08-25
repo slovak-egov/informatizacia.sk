@@ -1,0 +1,8 @@
+.top-menu, .menu, .footer, .logo, #left-holder, #right-holder {
+	display: none;
+}
+.main-holder, #middle_content_container, .index, .middle-content, .middle-content-text {
+	width: 99% !important;
+}
+
+.no-print {display: none;}

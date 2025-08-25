@@ -1,0 +1,784 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- HEADER BEGINN-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sk">
+<head>
+  <title>INFORMATIZÁCIA - Aktuálne</title>
+  <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+  <meta name="description" content="Aktuálne" />
+  <meta name="keywords" content="Aktuálne" />
+  <meta name="language" content="sk-SK" />
+  <meta name="description" content="" />  <style media="all" type="text/css">
+ * {		}
+html, body#body-layout {}
+ a,  a:hover {}
+</style>
+<script language="javascript" type="text/javascript">
+function restore_wai_settings() {
+	var expiration = 'Fri, 02-Jan-1970 00:00:00 GMT';
+	document.cookie = 'theme=; path=/; expires=' + expiration;
+	document.cookie = 'size=; path=/; expires=' + expiration;
+	document.cookie = 'color=; path=/; expires=' + expiration;
+	document.cookie = 'background=; path=/; expires=' + expiration;
+	document.cookie = 'pagebg=; path=/; expires=' + expiration;
+	document.cookie = 'links=; path=/; expires=' + expiration;
+	window.location.reload();
+}
+</script>
+  <link rel="stylesheet" type="text/css" media="all" href="../include/style.css" id="link_stylesheet_theme" />
+  <link rel="stylesheet" type="text/css" media="print" href="../include/print.css" />
+  <link rel="alternate" type="application/rss+xml" title="INFORMATIZÁCIA - Všeobecné novinky" href="../rss/rss.rss" />
+  <link rel="alternate" type="application/rss+xml" title="INFORMATIZÁCIA - Najnovšie na portáli" href="../rss/najnovsie.rss" />
+  <link rel="alternate" type="application/rss+xml" title="INFORMATIZÁCIA - Aktuálne" href="../rss/aktuality.rss" />
+  <link rel="alternate" type="application/rss+xml" title="INFORMATIZÁCIA - Kalendár udalostí" href="../rss/kalendar-udalosti.rss" />
+  <link rel="alternate" type="application/rss+xml" title="INFORMATIZÁCIA - Tlačové správy" href="../rss/tlacove-spravy.rss" />
+
+<script language="JavaScript" src="../include/script.js" type="text/javascript"></script> 
+<script language="JavaScript" src="../include/flash_detect_min.js" type="text/javascript"></script> 
+<script language="javascript" type="text/javascript">
+<!--
+
+	function checksearch () {
+		var qe = document.getElementById('search_form_v');
+		var q = qe.value;
+		otvor_search('../hladaj/search.php?ps=20&wm=sub&q=' +q+'&cat=',616,550);
+		return false;
+	}
+
+// -->
+</script>
+<!-- fixes the Internet Explorer ActiveX update 912812 which prevents third party plugins from running automatically -->
+<!--[if IE]>
+<script type="text/javascript" src="../include/fixFlash.js"></script>
+<![endif]-->
+	
+</head>
+<body id="body-layout">
+<!-- noindex -->
+    <div class="main-holder sub">
+					<ul style="display: none;"><li><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#menu" accesskey="2" title="Menu">Menu</a></li><li><a href="../sitemap.html" accesskey="3" title="Mapa Stránok">Mapa Stránok</a></li></ul>							<div class="top-menu">
+<div class="top-rss"><a href="../rss/1111s.html"><img title="RSS" hspace="0" alt="RSS" src="../../img.informatizacia.sk/images/rss-icon.gif" width="29" height="14" /></a></div>
+<div class="search-form">
+<form method="post" name="top-search-form" action="http://www.informatizacia.sk/vyhladavanie">
+<div class="search-text">&nbsp;&nbsp;<label for="search-query">Hľadaj:</label> &nbsp;</div>
+<table>
+<tbody>
+<tr>
+<td><input id="search-query" class="search-query" name="stext" /> </td>
+<td><input class="search-button" value="&nbsp;" alt="Hľadať" type="submit" /> </td></tr></tbody></table></form></div>
+<div class="top-links"><a accesskey="1" class="white" title="Titulka [Klávesová skratka: Alt + 1]" href="../schvalene-projekty/6373s.html">Titulka</a> | <a class="white" href="../index.html%3Flang=en.html">English</a> | <a class="white" href="../nastavit-farby/916s.html">Nastavenia</a> | <a accesskey="t" class="white" title="Prepnúť na textovú verziu [Klávesová skratka: Alt + t]" onclick="return tv('blind');" href="http://www.informatizacia.sk/kurzovy-listok/530s?set_subframe=blind">Textová verzia</a> </div>
+<div class="reset"></div></div>
+							<div class="logo"><a href="../schvalene-projekty/6373s.html"><img alt="informatizacia - titulka" src="../../img.informatizacia.sk/images/banner.gif" width="1002" height="60" /></a></div>
+							<h2 class="no-css">Hlavná navigácia:</h2>
+<a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#zamenu2" class="no-css">Preskočiť hlavnú navigáciu</a>
+<div class="menu">
+	<ul>
+			<li><a href="../o-nas/4934s.html">O nás</a></li>			<li><a href="../informatizacia-main/599s.html">Informatizácia</a></li>			<li><a href="../zahranicie/453s.html">Zahraničie</a></li>			<li><a href="../egovernment/519s.html">eGovernment</a></li>			<li><a href="../standardy-is-vs/596s.html">Štandardy IS VS</a></li>			<li><a href="../opis/598s.html">OPIS</a></li>			<li><a href="../opii/15542s.html">OPII</a></li>	</ul>
+</div>
+<div class="orangediv"></div>
+<a name="zamenu2"></a>		<!-- HEADER END--><!--LEFT BOX BEGINN-->	
+<!-- content-->
+    <table class="index"  cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td valign="top" style="width: 224px; _width: 223px;" id="left-holder">
+<!-- left-content-->
+																								</td>
+<!-- //left-content-->
+<!--LEFT BOX END-->	<!--CONTENT BEGINN-->			
+            <td valign="top" id="middle_content_container">
+            <div class="middle-content">
+<!-- middle-content-->
+<!-- /noindex -->
+		<!--	includeujem modul:<br>-->
+		<div class="middle-content-text">
+<!-- middle-content-->
+	<h1>Aktuálne</h1>
+</div>
+<script language="JavaScript" type="text/javascript" src="../include/kalendar.js"></script>
+<script language="javascript" type="text/javascript">
+
+function check_date(oForm) {
+	if (oForm) {
+		var regex = /[0-9][0-9]\.[0-9][0-9]\.[0-9][0-9][0-9][0-9]$/;
+		if ((oForm.sfrom.value != '') && !regex.test(oForm.sfrom.value)) {
+			alert("Položka musí byť dátumom v tvare DD.MM.RRRR.");
+			oForm.sfrom.focus();
+			return false;
+		}
+		if ((oForm.sto.value != '') && !regex.test(oForm.sto.value)) {
+			alert("Položka musí byť dátumom v tvare DD.MM.RRRR.");
+			oForm.sto.focus();
+			return false;
+		}
+	}
+	return true;
+}
+
+</script>
+<div class="submenu">
+	<div class="zalozkaOn"><a href="452s.html">Vyhľadávanie</a></div>
+	<br clear="all" />
+</div>
+<div class="form-holder">
+<form name="aktuality_search" action="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html" method="post" enctype="multipart/form-data" onsubmit="return check_date(this);">
+<table cellspacing="0" cellpadding="5" border="0" class="form-table" >
+	<tr>
+		<td colspan="4">
+			<label for="sekcia"><b>Sekcia:</b></label>
+			<br />
+			<select name="sekcia" id="sekcia">
+				<option value="">-- všetky --</option>
+				<option value="15">Tlačové správy</option>
+			<option value="16">Press room</option>
+			<option value="17">Novinky</option>
+						</select>
+		</td>
+	 </tr>
+	<tr>
+		<td>
+			<label for="stext"><b>Hľadaný text:</b></label>
+			<br />
+			<input type="text" name="stext" id="stext" value="" class="text" size="15" />
+		</td>
+		<td>
+			<label for="oblast"><b>Oblasť:</b></label>
+			<br />
+			<select name="oblast" id="oblast">
+				<option value="">-- všetky --</option>
+				<option value="79">e-témy</option>
+			<option value="80">--eAccessibility</option>
+			<option value="81">--eCommerce</option>
+			<option value="82">--eContent</option>
+			<option value="83">--eCulture</option>
+			<option value="84">--eDemocracy</option>
+			<option value="85">--eEducation</option>
+			<option value="86">--eHealth</option>
+			<option value="87">--eInclusion</option>
+			<option value="88">--eInvoicing</option>
+			<option value="89">--eJustice</option>
+			<option value="90">--eLearning</option>
+			<option value="91">--eProcurement</option>
+			<option value="92">--eSafety</option>
+			<option value="93">--eSignature</option>
+			<option value="94">--eSkills</option>
+			<option value="95">--eTourism</option>
+			<option value="96">--eTransport</option>
+			<option value="97">--eWork</option>
+			<option value="98">--RFID</option>
+			<option value="99">--širokopásmový internet</option>
+			<option value="53">Strategické dokumenty </option>
+			<option value="55">Metodické materiály</option>
+			<option value="57">Štatistické dokumenty</option>
+			<option value="6">Legislatíva</option>
+			<option value="105">Informačná bezpečnosť</option>
+			<option value="7">Štandardizácia</option>
+			<option value="106">Správa Internetu</option>
+			<option value="78">OPIS</option>
+			<option value="68">Výzvy</option>
+			<option value="100">KRIS</option>
+			<option value="64">Pracovné skupiny</option>
+			<option value="71">Zahraničné aktivity</option>
+			<option value="8">Konferencie a udalosti</option>
+			<option value="28">Ostatné</option>
+						</select>
+		</td>
+		<td>
+			<label for="sfrom"><b>Od:</b></label>
+			<br />
+			<input type="text" name="sfrom" id="sfrom" value="" class="text" size="7" maxlength="10" />
+			<input type="image" src="../../img.informatizacia.sk/images/kalendar.gif" onclick="cal_sfrom.popup(); return false;" />
+		</td>
+		<td>
+			<label for="sto"><b>Do:</b></label>
+			<br />
+			<input type="text" name="sto" id="sto" value="" class="text" size="7" maxlength="10" />
+			<input type="image" src="../../img.informatizacia.sk/images/kalendar.gif" onclick="cal_sto.popup(); return false;" />
+		</td>
+	 </tr>
+	 <tr>
+		<td valign="bottom" colspan="4">
+			<input type="submit" value="Odoslať" />
+		</td>
+	</tr>
+</table>
+</form>
+</div>
+<script language="JavaScript" type="text/javascript">
+
+var cal_sfrom = new calendar1(document.forms['aktuality_search'].elements['sfrom']);
+cal_sfrom.year_scroll = true;
+cal_sfrom.time_comp = false;
+var cal_sto = new calendar1(document.forms['aktuality_search'].elements['sto']);
+cal_sto.year_scroll = true;
+cal_sto.time_comp = false;
+
+</script>
+
+<table width="543" border="0" cellpadding="4" cellspacing="0" class="category-pager-top">
+<tr>
+	<td align="left" valign="top" style="width: 25%;">Stránka: <strong>1</strong> z <strong>27</strong></td>
+	<td align="center" style="width: 30%;">			Choď na:
+												&nbsp;<b>1</b>&nbsp;
+																<a href="452s%3F%3Fids=452&amp;page=2&amp;pagec=2.html">2</a>
+																<a href="452s%3F%3Fids=452&amp;page=3&amp;pagec=3.html">3</a>
+																<a href="452s%3F%3Fids=452&amp;page=4&amp;pagec=4.html">4</a>
+																<a href="452s%3F%3Fids=452&amp;page=5&amp;pagec=5.html">5</a>
+																<a href="452s%3F%3Fids=452&amp;page=6&amp;pagec=6.html">6</a>
+										</td>
+	<td align="right" valign="top" style="width: 35%;">Otázky podľa zadaných kritérií: <strong>524</strong></td>
+</tr>
+</table>
+<div class="otazka-list">
+	<h3>Záchranári sa dostanú k údajom o pacientovi v systéme eZdravie priamo zo sanitky</h3>
+	<p>Zdieľanie dokumentácie medzi zdravotníkmi bude efektívnejšie, čo môže zachrániť viac ľudských životov. Zdravotní pracovníci sa po novom tiež dostanú do systému eZdravie napríklad aj zo sanitky, v ktorej tak priamo v teréne získajú potrebné údaje o pacientovi a zároveň budú môcť aktuálne informácie doň ihneď zapisovať.</p>
+	<table width="533">
+		<tr>
+			<td><b>15.01.2019 16:31 </b></td>
+			<td align="right"><a href="../aktuality-zachranari-sa-dostanu-k-udajom-o-pacientovi-v-systeme-ezdravie-priamo-zo-sanitky/452s27915c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Záchranári sa dostanú k údajom o pacientovi v systéme eZdravie priamo zo sanitky">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>K údajom o ovzduší či prírodných vplyvoch sa občania i podnikatelia dostanú jednoduchšie</h3>
+	<p>Údaje, na základe ktorých budú vedieť napríklad stavitelia vyhodnotiť, aké sú prírodné vplyvy na území ich záujmu, budú ľahšie dostupné a zrozumiteľnejšie. Ide o tzv. priestorové údaje, ktoré pomôžu napríklad určiť, či sa na konkrétnom území nenachádza skládka odpadov alebo iná environmentálna záťaž, či aký je na ňom stav ovzdušia. Datasety, v ktorých občania či podnikatelia nájdu informácie tohto typu, zosúladí Ministerstvo životného prostredia SR.</p>
+	<table width="533">
+		<tr>
+			<td><b>11.12.2018 11:49 </b></td>
+			<td align="right"><a href="../aktuality-k-udajom-o-ovzdusi-ci-prirodnych-vplyvoch-sa-obcania-i-podnikatelia-dostanu-jednoduchsie/452s27798c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="K údajom o ovzduší či prírodných vplyvoch sa občania i podnikatelia dostanú jednoduchšie">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Menej byrokracie pre podnikateľov vďaka e-službám inšpektorátu práce</h3>
+	<p>E-služby pre verejnosť, kratšie správne konania aj transparentné Open Data prinesie národný projekt elektronizácie služieb Národného inšpektorátu práce. Vyzvanie zverejní Úrad podpredsedu vlády SR pre investície a informatizáciu.</p>
+	<table width="533">
+		<tr>
+			<td><b>03.12.2018 11:41 </b></td>
+			<td align="right"><a href="../aktuality-menej-byrokracie-pre-podnikatelov-vdaka-e-sluzbam-inspektoratu-prace/452s27761c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Menej byrokracie pre podnikateľov vďaka e-službám inšpektorátu práce">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Kratšie konania na Najvyššom súde prinesie nový informačný systém</h3>
+	<p>Priemerná dĺžka konania by sa mala znížiť z 214 dní v roku 2016 na 150 dní v roku 2022. Transparentnosť Najvyššieho súdu sa posilní publikovaním otvorených údajov (open data), občanov a organizácie zasa poteší možnosť dohodnúť si termín nahliadnutia do spisu cez internet. Vyzvanie na národný projekt vyhlási Úrad podpredsedu vlády SR pre investície a informatizáciu.</p>
+	<table width="533">
+		<tr>
+			<td><b>29.11.2018 14:15 </b></td>
+			<td align="right"><a href="../aktuality-kratsie-konania-na-najvyssom-sude-prinesie-novy-informacny-system/452s27742c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Kratšie konania na Najvyššom súde prinesie nový informačný systém">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>eInkúzia pomôže hendikepovaným pri parkovaní</h3>
+	<p>Nájsť voľné parkovacie miesto často nie je ľahké ani pre zdravých. Ľudia s ťažkým zdravotným postihnutím (ŤZP) musia lokalizovať v cudzom prostredí vyhradené miesta, tie sú však neraz obsadené neoprávnenými vozidlami. Pri riešení oboch problémov má pomôcť národný projekt eParkovanie osôb s ŤZP. Vyzvanie vyhlási Úrad podpredsedu vlády SR pre investície a informatizáciu.</p>
+	<table width="533">
+		<tr>
+			<td><b>21.11.2018 16:54 </b></td>
+			<td align="right"><a href="../aktuality-einkuzia-pomoze-hendikepovanym-pri-parkovani/452s27698c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="eInkúzia pomôže hendikepovaným pri parkovaní">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Kontroly hygienikov budú v súlade s princípom „Jedenkrát a dosť“, menej byrokracie v procesoch úradov verejného zdravotníctva</h3>
+	<p>Hygienické kontroly kúpalísk, hotelov, reštaurácií, školských jedální a iných prevádzok, ktoré vykonávajú úrady verejného zdravotníctva, budú menej byrokratické, rýchlejšie, efektívnejšie, transparentnejšie, v zmysle jednotného štandardu. Kontrolóri si podľa princípu „Jedenkrát a dosť“ vyhľadajú množstvo údajov sami a podnikatelia ich nebudú musieť predkladať. Dôjde k elektronizácii procesov a verejnosť bude mať aktuálny prístup k širokému spektru informácií – napríklad o kvalite pitnej vody, vody určenej na kúpanie, stave detských ihrísk, epidemiologickej situácii, nevyhovujúcich kozmetických výrobkoch, o výskyte radónu, radiačnej situácii a o ďalších ohrozeniach verejného zdravia. To všetko je cieľom národného projektu „Integrovaný systém úradov verejného zdravotníctva“, na ktorý je z eurofondov cez Operačný program Integrovaná infraštruktúra – prioritná os 7 (OP II-PO7) vyčlenených 17 982 240 eur. Vyzvanie na projekt zverejní Úrad podpredsedu vlády SR pre investície a informatizáciu.</p>
+	<table width="533">
+		<tr>
+			<td><b>19.11.2018 17:57 </b></td>
+			<td align="right"><a href="../aktuality-kontroly-hygienikov-budu-v-sulade-s-principom-/452s27681c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Kontroly hygienikov budú v súlade s princípom „Jedenkrát a dosť“, menej byrokracie v procesoch úradov verejného zdravotníctva">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Sedem nových projektov pre informatizáciu ide ďalej</h3>
+	<p>– Vďaka eurofondom sa zrealizuje ďalších sedem projektov informatizácie verejnej správy. Prinesú napríklad lepšie parkovanie pre ťažko zdravotne postihnutých ľudí, kratšie konania na Najvyššom súde či open data z inšpektorátov práce a z úradov verejného zdravotníctva. Na dnešnom zasadnutí ich schválil Riadiaci výbor Operačného programu Integrovaná infraštruktúra – prioritná os 7 (OPII – PO7), ktorý vedie podpredseda vlády pre investície a informatizáciu Richard Raši.</p>
+	<table width="533">
+		<tr>
+			<td><b>11.10.2018 17:31 </b></td>
+			<td align="right"><a href="../aktuality-sedem-novych-projektov-pre-informatizaciu-ide-dalej/452s27511c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Sedem nových projektov pre informatizáciu ide ďalej">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Polícia, hasiči a okresné úrady budú mať lepšie IT, pocíti to aj občan</h3>
+	<p>Digitálne pracovné prostredie zložiek, ktoré spadajú pod ministerstvo vnútra, bude modernejšie a efektívnejšie vďaka trom eurofondovým projektom. Občanom a podnikateľom to prinesie menej byrokracie, lepšiu kontrolu činností vykonávaných na okresných a obvodných úradoch, rýchlejšie vybavovanie požiadaviek  a vďaka službám call centra odbúranie čakacích lehôt na informácie. Úrad podpredsedu vlády SR pre investície a informatizáciu zverejní vyzvania na tri národné projekty, ktoré budú financované z Operačného programu Integrovaná infraštruktúra – prioritná os 7 (OPII PO7).</p>
+	<table width="533">
+		<tr>
+			<td><b>09.10.2018 22:46 </b></td>
+			<td align="right"><a href="../aktuality-policia--hasici-a-okresne-urady-budu-mat-lepsie-it--pociti-to-aj-obcan/452s27503c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Polícia, hasiči a okresné úrady budú mať lepšie IT, pocíti to aj občan">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Kybernetické hrozby sú reálne, Slovensko budú chrániť 4 jednotky CSIRT</h3>
+	<p>Štyri profesionálne tímy odborníkov na kybernetickú bezpečnosť, vybavené potrebným technologickým zázemím, budú kostrou slovenského systému kybernetickej bezpečnosti.  Materiálne, priestorové a softvérové podmienky pre ne zabezpečí národný projekt, financovaný z Operačného programu Integrovaná infraštruktúra – prioritná os 7 (OPII PO7). Úrad podpredsedu vlády SR pre investície a informatizáciu dnes zverejní vyzvanie.</p>
+	<table width="533">
+		<tr>
+			<td><b>21.09.2018 14:59 </b></td>
+			<td align="right"><a href="../aktuality-kyberneticke-hrozby-su-realne--slovensko-budu-chranit-4-jednotky-csirt/452s27401c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Kybernetické hrozby sú reálne, Slovensko budú chrániť 4 jednotky CSIRT">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Zákon proti byrokracii začne platiť od 1. septembra</h3>
+	<p>Od 1. septembra 2018 nadobudne účinnosť zákon proti byrokracii, ktorý prinesie výrazne odbúranie byrokratickej záťaže občanov i podnikateľov. Tí už nemusia na úrady nosiť výpisy z obchodného a živnostenského registra, ani z katastra nehnuteľností. Zmena sa dotkne aj približne 40 000 úradníkov, ktorí boli roky zvyknutí tieto výpisy vyžadovať.</p>
+	<table width="533">
+		<tr>
+			<td><b>31.08.2018 13:53 </b></td>
+			<td align="right"><a href="../aktuality-zakon-proti-byrokracii-zacne-platit-od-1-septembra/452s27302c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Zákon proti byrokracii začne platiť od 1. septembra">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Mestá a obce by si mali skontrolovať elektronickú schránku, nájdu v nej informácie o OverSi</h3>
+	<p>Úrad podpredsedu vlády SR pre investície a informatizáciu (ÚPVII) v spolupráci so Združením miest a obcí Slovenska (ZMOS) oslovuje mestá a obce s informáciou o možnosti implementácie do portálu https://oversi.gov.sk/. Školenia k portálu OverSi už začali.</p>
+	<table width="533">
+		<tr>
+			<td><b>31.08.2018 13:47 </b></td>
+			<td align="right"><a href="../aktuality-mesta-a-obce-by-si-mali-skontrolovat-elektronicku-schranku--najdu-v-nej-informacie-o-oversi/452s27300c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Mestá a obce by si mali skontrolovať elektronickú schránku, nájdu v nej informácie o OverSi">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Web www.stopbyrokracii.sk poslúži verejnosti i úradom</h3>
+	<p>Úrad podpredsedu vlády SR pre investície a informatizáciu (ÚPVII) vyhlásil na začiatku roka boj proti byrokracii a zdĺhavému behaniu občanov po úradoch. Od 1. septembra vstupuje do účinnosti zákon proti byrokracii a o tom, čo presne prinesie občanom, informuje ÚPVII na novom portáli www.stopbyrokracii.sk.</p>
+	<table width="533">
+		<tr>
+			<td><b>31.08.2018 13:39 </b></td>
+			<td align="right"><a href="../aktuality-web-wwwstopbyrokraciisk-posluzi-verejnosti-i-uradom/452s27299c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Web www.stopbyrokracii.sk poslúži verejnosti i úradom">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Úrad vicepremiéra vytvoril model, ktorý malým slovenským firmám otvára dvere na globálny trh</h3>
+	<p>Podpredseda vlády SR pre investície a informatizáciu Richard Raši predstavil osobitný model hybridnej finančnej pomoci pre stredné a malé podniky. Dve mladé slovenské firmy, ktoré uspeli vo výzvach Úradu vicepremiéra na podporu inovácií Smart Cities, absolvovali trojmesačný akceleračný program v USA a etablovali sa na medzinárodnom trhu.</p>
+	<table width="533">
+		<tr>
+			<td><b>31.08.2018 13:33 </b></td>
+			<td align="right"><a href="../aktuality-urad-vicepremiera-vytvoril-model--ktory-malym-slovenskym-firmam-otvara-dvere-na-globalny-trh/452s27298c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Úrad vicepremiéra vytvoril model, ktorý malým slovenským firmám otvára dvere na globálny trh">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Často kladené otázky k výzve „WiFi pre Teba“</h3>
+	<p></p>
+	<table width="533">
+		<tr>
+			<td><b>15.08.2018 08:39 </b></td>
+			<td align="right"><a href="../aktuality-casto-kladene-otazky-k-vyzve-/452s27244c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Často kladené otázky k výzve „WiFi pre Teba“">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>R. Raši dnes odštartoval projekt WiFi pre Teba, ktorý prinesie do miest a obcí bezplatný internet</h3>
+	<p>Bratislava, 30. júna – Sme o krok bližšie k tomu, aby sa slovenské obce a mestá rozvíjali v súlade so súčasnými európskymi trendmi. Úrad podpredsedu vlády SR pre investície a informatizáciu dnes vyhlásil výzvu na predkladanie žiadostí o nenávratný finančný príspevok na projekt WiFi pre Teba, ktorý prinesie bezplatný internet na verejných priestranstvách po celom Slovensku.</p>
+	<table width="533">
+		<tr>
+			<td><b>30.07.2018 11:13 </b></td>
+			<td align="right"><a href="../aktuality-r-rasi-dnes-odstartoval-projekt-wifi-pre-teba--ktory-prinesie-do-miest-a-obci-bezplatny-internet/452s27189c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="R. Raši dnes odštartoval projekt WiFi pre Teba, ktorý prinesie do miest a obcí bezplatný internet">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Zverejňujeme dopytové výzvy pre dáta, služby a cloud</h3>
+	<p>Dopytovo orientované projekty prinášajú do informatizácie verejnej správy menšie a rýchlo dostupné zlepšenia. Tri dopytové výzvy, ktoré dnes zverejní Úrad podpredsedu vlády SR pre investície a informatizáciu (ÚPVII), sa týkajú zdieľania údajov medzi úradmi, zlepšovania služieb e-governmentu a migrácie informačných systémov do vládneho cloudu.</p>
+	<table width="533">
+		<tr>
+			<td><b>02.07.2018 12:42 </b></td>
+			<td align="right"><a href="../aktuality-zverejnujeme-dopytove-vyzvy-pre-data--sluzby-a-cloud_v1/452s27106c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Zverejňujeme dopytové výzvy pre dáta, služby a cloud">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Inteligentný sprievodca zákonmi bude najlepším priateľom začínajúcich podnikateľov</h3>
+	<p>Namiesto služieb právnika inteligentný online vyhľadávač, ktorý bude zdarma. Platforma lepšej regulácie podnikateľom a neskôr aj občanom ukáže, aké sú ich povinnosti a práva. Teda, ktoré slovenské aj európske predpisy, zákony a regulácie sa ich týkajú. Úrad podpredsedu vlády SR pre investície a informatizáciu dnes zverejní vyzvanie na národný projekt, ktorý by mal v prvej fáze sprehľadniť informačné povinnosti podnikateľov predstavujúce 80 percent neopodstatnenej administratívnej záťaže.</p>
+	<table width="533">
+		<tr>
+			<td><b>22.06.2018 10:19 </b></td>
+			<td align="right"><a href="../aktuality-inteligentny-sprievodca-zakonmi-bude-najlepsim-priatelom-zacinajucich-podnikatelov/452s27046c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Inteligentný sprievodca zákonmi bude najlepším priateľom začínajúcich podnikateľov">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Modernizácia portálu slovensko.sk prinesie užívateľom novinky a zjednodušenia</h3>
+	<p>Prevádzkovať služby e-governmentu znamená neustále inovovať a reagovať na nové potreby. Úrad podpredsedu vlády SR preto dnes zverejní vyzvanie na národný projekt, ktorého cieľom je zjednodušenie a sprehľadnenie portálu Slovensko.sk.</p>
+	<table width="533">
+		<tr>
+			<td><b>22.06.2018 10:09 </b></td>
+			<td align="right"><a href="../aktuality-modernizacia-portalu-slovenskosk-prinesie-uzivatelom-novinky-a-zjednodusenia/452s27045c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Modernizácia portálu slovensko.sk prinesie užívateľom novinky a zjednodušenia">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Vyhlasujeme vyzvanie na projekt jednotnej testovacej platformy</h3>
+	<p>Bratislava, 29. mája 2018 – Spoločné cloudové testovacie prostredie pre všetky nové informačné systémy verejnej správy. To je národný projekt Platforma ako služba (Platform as a Service – PaaS), ktorý je predmetom vyzvania Úradu podpredsedu vlády SR pre investície a informatizáciu na predkladanie žiadostí o nenávratný finančný príspevok z Operačného programu Integrovaná infraštruktúra – Prioritná os 7 (OPII – PO7). </p>
+	<table width="533">
+		<tr>
+			<td><b>29.05.2018 14:31 </b></td>
+			<td align="right"><a href="../aktuality-vyhlasujeme-vyzvanie-na-projekt-jednotnej-testovacej-platformy/452s26875c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Vyhlasujeme vyzvanie na projekt jednotnej testovacej platformy">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div><div class="otazka-list">
+	<h3>Jedenkrát a dosť: Vyhlasujeme vyzvanie na projekt, ktorý Slovákom ročne ušetrí 240-tisíc dní čakania</h3>
+	<p>Bratislava, 24. mája 2018 – Keď od vás úradníci prestanú žiadať údaje, ktoré ste štátu už raz poskytli, bude to s veľkou pravdepodobnosťou vďaka výsledkom projektu Dátová integrácia. Ten zásadným spôsobom prispeje k naplneniu princípu jedenkrát a dosť, pretože umožní zdieľanie údajov medzi úradmi a registrami až v 76-percentách možných konaní. Úrad podpredsedu vlády SR pre investície a informatizáciu dnes zverejnil vyzvanie na predkladanie žiadostí o nenávratný finančný príspevok v tomto národnom projekte.</p>
+	<table width="533">
+		<tr>
+			<td><b>24.05.2018 14:33 </b></td>
+			<td align="right"><a href="../aktuality-jedenkrat-a-dost--vyhlasujeme-vyzvanie-na-projekt--ktory-slovakom-rocne-usetri-240-tisic-dni-cakania/452s26857c%3Fstext=&amp;sekcia=&amp;oblast=&amp;sfrom=&amp;sto=&amp;page=1.html" title="Jedenkrát a dosť: Vyhlasujeme vyzvanie na projekt, ktorý Slovákom ročne ušetrí 240-tisíc dní čakania">Viac &raquo;</a></td>
+		</tr>
+	</table>
+</div>	
+<!-- noindex -->
+				<div style="" class="no-print"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#" onclick="window.print(); return false;" style="text-decoration: none; font-size: 11px;"><img src="../../img.informatizacia.sk/images/print_icon.gif" alt="Vytlačiť" align="left" />&nbsp;Vytlačiť</a></div>
+            </div>
+<!-- middle-content-->
+            </td>
+<!--CONTENT END-->	<!--PAGE RIGHT BEGINN-->		
+            <td valign="top" style="width: 224px; padding-left: 6px;" id="right-holder">
+														<div class="kalendarik-month">
+<table>
+	<tr>
+		<td style="width:20px"></td>
+		<td><a href="http://www.informatizacia.sk/aktualne/452s?pdate=2022-09"><img src="../../img.informatizacia.sk/images/cal_back.gif" alt="Predchádazjúci mesiac" /></a></td>
+		<td style="width:118px; text-align:center"><a href="http://www.informatizacia.sk/events/s?pohlad=3">október, 2022</a></td>
+		<td><a href="http://www.informatizacia.sk/aktualne/452s?pdate=2022-11"><img src="../../img.informatizacia.sk/images/cal_next.gif" alt="Nasledujúci mesiac" /></a></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+<div id="kalendarikHolder">
+<table cellpadding="0" cellspacing="0" border="0" class="kalendarik">
+
+	<tr>
+		<th title="Pondelok">Po</th>
+		<th title="Utorok">Ut</th>
+		<th title="Streda">St</th>
+		<th title="Štvrtok">Š</th>
+		<th title="Piatok">Pi</th>
+		<th title="Sobota">So</th>
+		<th title="Nedeľa">Ne</th>
+	</tr>
+  <tr>
+	<th colspan="7" style="height:11px; background-color:#ffffff;"></th>
+  </tr>
+	<tr>	<td class="day-month-other" 
+		title="26.9.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-09-26" title="26.9.2022">26</a></td>
+		
+				<td class="day-month-other" 
+		title="27.9.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-09-27" title="27.9.2022">27</a></td>
+		
+				<td class="day-month-other" 
+		title="28.9.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-09-28" title="28.9.2022">28</a></td>
+		
+				<td class="day-month-other" 
+		title="29.9.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-09-29" title="29.9.2022">29</a></td>
+		
+				<td class="day-month-other" 
+		title="30.9.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-09-30" title="30.9.2022">30</a></td>
+		
+				<td class="blue" 
+		title="1.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-01" title="1.10.2022">1</a></td>
+		
+				<td class="blue" 
+		title="2.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-02" title="2.10.2022">2</a></td>
+		
+		</tr><tr>		<td class="" 
+		title="3.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-03" title="3.10.2022">3</a></td>
+		
+				<td class="" 
+		title="4.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-04" title="4.10.2022">4</a></td>
+		
+				<td class="today" 
+		title="5.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-05" title="5.10.2022">5</a></td>
+		
+				<td class="" 
+		title="6.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-06" title="6.10.2022">6</a></td>
+		
+				<td class="" 
+		title="7.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-07" title="7.10.2022">7</a></td>
+		
+				<td class="blue" 
+		title="8.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-08" title="8.10.2022">8</a></td>
+		
+				<td class="blue" 
+		title="9.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-09" title="9.10.2022">9</a></td>
+		
+		</tr><tr>		<td class="" 
+		title="10.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-10" title="10.10.2022">10</a></td>
+		
+				<td class="" 
+		title="11.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-11" title="11.10.2022">11</a></td>
+		
+				<td class="" 
+		title="12.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-12" title="12.10.2022">12</a></td>
+		
+				<td class="" 
+		title="13.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-13" title="13.10.2022">13</a></td>
+		
+				<td class="" 
+		title="14.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-14" title="14.10.2022">14</a></td>
+		
+				<td class="blue" 
+		title="15.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-15" title="15.10.2022">15</a></td>
+		
+				<td class="blue" 
+		title="16.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-16" title="16.10.2022">16</a></td>
+		
+		</tr><tr>		<td class="" 
+		title="17.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-17" title="17.10.2022">17</a></td>
+		
+				<td class="" 
+		title="18.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-18" title="18.10.2022">18</a></td>
+		
+				<td class="" 
+		title="19.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-19" title="19.10.2022">19</a></td>
+		
+				<td class="" 
+		title="20.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-20" title="20.10.2022">20</a></td>
+		
+				<td class="" 
+		title="21.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-21" title="21.10.2022">21</a></td>
+		
+				<td class="blue" 
+		title="22.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-22" title="22.10.2022">22</a></td>
+		
+				<td class="blue" 
+		title="23.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-23" title="23.10.2022">23</a></td>
+		
+		</tr><tr>		<td class="" 
+		title="24.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-24" title="24.10.2022">24</a></td>
+		
+				<td class="" 
+		title="25.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-25" title="25.10.2022">25</a></td>
+		
+				<td class="" 
+		title="26.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-26" title="26.10.2022">26</a></td>
+		
+				<td class="" 
+		title="27.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-27" title="27.10.2022">27</a></td>
+		
+				<td class="" 
+		title="28.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-28" title="28.10.2022">28</a></td>
+		
+				<td class="blue" 
+		title="29.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-29" title="29.10.2022">29</a></td>
+		
+				<td class="blue" 
+		title="30.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-30" title="30.10.2022">30</a></td>
+		
+		</tr><tr>		<td class="" 
+		title="31.10.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-10-31" title="31.10.2022">31</a></td>
+		
+				<td class="day-month-other" 
+		title="1.11.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-11-01" title="1.11.2022">1</a></td>
+		
+				<td class="day-month-other" 
+		title="2.11.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-11-02" title="2.11.2022">2</a></td>
+		
+				<td class="day-month-other" 
+		title="3.11.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-11-03" title="3.11.2022">3</a></td>
+		
+				<td class="day-month-other" 
+		title="4.11.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-11-04" title="4.11.2022">4</a></td>
+		
+				<td class="day-month-other" 
+		title="5.11.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-11-05" title="5.11.2022">5</a></td>
+		
+				<td class="day-month-other" 
+		title="6.11.2022
+		"><a href="http://www.informatizacia.sk/events/s?pohlad=1&amp;date=2022-11-06" title="6.11.2022">6</a></td>
+		
+		</tr>
+		</table>
+<div style="text-align: center;">
+		<div class="popis"><br />
+				<a href="http://www.informatizacia.sk/pouzivatelia/?action=intro" style="color:#B32524" title="Pridanie udalosti">PRIDANIE UDALOSTI</a>
+	</div>
+	</div>
+</div>
+<div class="no-text-version"><img src="../../img.informatizacia.sk/images/box_bottom.gif" width="218" height="10" alt="" /></div><br style="line-height: 6px;" />																			<div class="banner-r">
+<div class="nadpis"><a style="COLOR: #a92727" href="../poradna/460s.html">» Poradňa</a></div>
+<div class="popis"><a style="COLOR: #a92727" href="../poradna/460s.html">Vaše otázky</a></div><img alt="Poradňa pre Vaše otázky" src="../../img.informatizacia.sk/images/poradna.gif" /></div>
+																			<div class="banner-r">
+<div class="nadpis"><a href="../pouzivatelia.html" style="color:#d49836">&raquo; Používatelia</a></div>
+<div class="popis"><a href="../pouzivatelia.html" style="color:#d49836">prihlásenie</a></div>
+<img alt="" src="../../img.informatizacia.sk/images/mailing.gif" class="no-text-version" />
+</div>																			<div class="anketa">
+	<div class="anketa-nadpis">Anketa</div>
+	<table width="197" cellpadding="0" cellspacing="2">
+		<tr>
+			<td colspan="2">
+				<div class="otazka"> V rámci Operačného programu Integrovaná infraštruktúra 2014-2020 bude MFSR zodpovedným orgánom za plnenie cieľov jeho prioritnej osi 7 Informačná spoločnosť.
+Ktorý z nasledujúcich vybraných cieľov prioritnej osi 7 považujete vy osobne za najdôležitejší?</div><br/>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#" id="p_od0">Rozširovanie vládneho cloudu</a></td>
+		</tr>
+		<tr>
+			<td class="tcl-anketa-graf" style="width: 180px">
+				<div style="height: 7px; overflow: hidden; width: 23%; background-color: #E66E04; float: left"></div>
+				<div class="reset"></div>
+			</td>
+			<td align="right" ><b>83497</b></td>
+		</tr><tr>
+			<td colspan="2"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#" id="p_od1">Rozvoj elektronických služieb pre občanov a podnikateľov</a></td>
+		</tr>
+		<tr>
+			<td class="tcl-anketa-graf" style="width: 180px">
+				<div style="height: 7px; overflow: hidden; width: 28%; background-color: #034E7F; float: left"></div>
+				<div class="reset"></div>
+			</td>
+			<td align="right" ><b>100567</b></td>
+		</tr><tr>
+			<td colspan="2"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#" id="p_od2">Pokrytie všetkých domácností širokopásmovým internetom s rýchlosťou min. 30Mbit/s</a></td>
+		</tr>
+		<tr>
+			<td class="tcl-anketa-graf" style="width: 180px">
+				<div style="height: 7px; overflow: hidden; width: 17%; background-color: #BADEF5; float: left"></div>
+				<div class="reset"></div>
+			</td>
+			<td align="right" ><b>60891</b></td>
+		</tr><tr>
+			<td colspan="2"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#" id="p_od3">Zvyšovanie dostupnosti údajov verejnej správy prostredníctvom otvorených dát</a></td>
+		</tr>
+		<tr>
+			<td class="tcl-anketa-graf" style="width: 180px">
+				<div style="height: 7px; overflow: hidden; width: 6%; background-color: #CCE29A; float: left"></div>
+				<div class="reset"></div>
+			</td>
+			<td align="right" ><b>22784</b></td>
+		</tr><tr>
+			<td colspan="2"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#" id="p_od4">Podpora prebiehajúcej reformy verejnej správy prostriedkami IKT (informačno-komunikačné technológie) </a></td>
+		</tr>
+		<tr>
+			<td class="tcl-anketa-graf" style="width: 180px">
+				<div style="height: 7px; overflow: hidden; width: 26%; background-color: #7D7D7D; float: left"></div>
+				<div class="reset"></div>
+			</td>
+			<td align="right" ><b>88697</b></td>
+		</tr>		<tr><td colspan="2">&nbsp;</td></tr>
+		<tr>
+			<td colspan="2" align="right"><a href="../ankety/529s.html" style="color: #2a5ea1;">Staršie ankety</a></td>
+		</tr>
+	</table>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var myahref = document.getElementById('p_od0');
+if (screen.width > 400) myahref.href = "?anket" +"a_h=" + "33&hl"+ "as=125";
+else myahref.href = "#";
+var myahref = document.getElementById('p_od1');
+if (screen.width > 400) myahref.href = "?anket" +"a_h=" + "33&hl"+ "as=126";
+else myahref.href = "#";
+var myahref = document.getElementById('p_od2');
+if (screen.width > 400) myahref.href = "?anket" +"a_h=" + "33&hl"+ "as=127";
+else myahref.href = "#";
+var myahref = document.getElementById('p_od3');
+if (screen.width > 400) myahref.href = "?anket" +"a_h=" + "33&hl"+ "as=128";
+else myahref.href = "#";
+var myahref = document.getElementById('p_od4');
+if (screen.width > 400) myahref.href = "?anket" +"a_h=" + "33&hl"+ "as=129";
+else myahref.href = "#";
+//]]>
+</script>
+<div class="reset"></div>																			<div class="banner-r">
+<div class="odkaz-top">
+<h3>» Odkazy</h3></div>
+<div class="odkazy" style="BORDER-RIGHT: #e3e3e3 1px solid">
+<div class="odkaz" style="MARGIN-TOP: 0px !important">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td valign="top"><a href="http://www.finance.gov.sk" target="_blank"><img border="0" alt="Ministerstvo financií SR - logo" src="../../img.informatizacia.sk/portlety/logo_mfsr.gif" width="37" height="31" /></a> </td>
+<td valign="top"><a href="http://www.finance.gov.sk/" target="_blank">Ministerstvo financií SR</a> </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><img title="Ústrený portál verejnej správy Slovensko.sk - logo" border="0" hspace="0" alt="Ústrený portál verejnej správy Slovensko.sk - logo" src="../../img.informatizacia.sk/Loga/logo_slovensko.jpg" width="39" height="33" /> </td>
+<td valign="top"><a title="Ústredný portál verejnej správy Slovensko.sk" href="http://www.slovensko.sk">Ústredný portál verejnej správy Slovensko.sk</a>&nbsp; </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><a href="http://www.vlada.gov.sk" target="_blank"><img title="Úrad vlády SR - logo" border="0" hspace="0" alt="Úrad vlády SR - logo" src="../../img.informatizacia.sk/portlety/logo_vlada.gif" width="37" height="31" /></a> </td>
+<td valign="top"><a href="http://www.vlada.gov.sk" target="_blank">Úrad vlády SR</a> </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><a href="http://www.roopis.vlada.gov.sk" target="_blank"><img title="Riadiaci orgán pre OP IS - logo" border="0" hspace="0" alt="Riadiaci orgán pre OP IS - logo" src="../../img.informatizacia.sk/portlety/logo_roopis.gif" width="37" height="31" /></a> </td>
+<td valign="top"><a href="http://www.opis.gov.sk/" target="_blank">Riadiaci orgán pre<br />OP IS</a> </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><a href="https://eidas.minv.sk/TCTokenService/download/" target="_blank"><img title="Softvér pre používateľov elektronických občianskych preukazov eID - obrázok" border="0" hspace="0" alt="Softvér pre používateľov elektronických občianskych preukazov eID - obrázok" src="../../img.informatizacia.sk/portlety/logo_eid_klient.jpg" width="37" height="31" /></a> </td>
+<td valign="top"><a href="https://eidas.minv.sk/TCTokenService/download/" target="_blank">Softvér pre používateľov elektronických občianskych preukazov eID</a>&nbsp; </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><img title="" border="0" alt="" src="../../img.informatizacia.sk/Loga/logo_sk.gif" width="39" height="33" /></td>
+<td valign="top"><a title="Koordinácia synergií a komplementarít" href="http://www.partnerskadohoda.gov.sk/273-sk/koordinacia-synergii-a-komplementarit-medzi-esif-a-ostatnymi-nastrojmi-podpory-eu-a-sr/" target="_blank">Koordinácia synergií a komplementarít&nbsp;</a> </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><img title="" border="0" alt="" src="../../img.informatizacia.sk/Loga/logo_evs.gif" width="39" height="33" /></td>
+<td valign="top"><a title="OP EVS" href="http://www.minv.sk/?opevs" target="_blank">OP EVS</a> </td></tr></tbody></table></div>
+<div class="odkaz">
+<table cellspacing="2" cellpadding="4">
+<tbody>
+<tr>
+<td style="WIDTH: 40px" valign="top"><img title="" border="0" alt="" src="../../img.informatizacia.sk/Loga/logo_ecas.gif" width="39" height="33" /></td>
+<td valign="top"><a title="ECAS" href="http://ecas.org/" target="_blank">ECAS</a> </td></tr></tbody></table></div></div>
+<div><img alt="" src="../../img.informatizacia.sk/images/odkazy_bottom.gif" width="218" height="6" /></div></div>
+								            </td>
+        </tr>
+    </table>
+<!--PAGE RIGHT RIGHT END-->			<!--FOOTER BEGINN-->
+    </div>
+														<div class="spodne-menu"><a href="javascript:CreateBookmarkLink();">Pridať do obľúbených</a> | <a href="mailto:informatizacia@vicepremier.gov.sk">Správca obsahu (ÚPVII)</a> | <a href="http://www.datacentrum.sk/dc/dcrs.nsf/0/AFFBCDABB180779EC1256BBC0041D4CB?OpenDocument">Technická podpora (Datacentrum)</a> | <a href="../index/index.php%5Fids=1848.html">Právne informácie</a> | <a href="../rss/1111s.html">RSS</a> | <a onclick="otvor('/index/sitemap.php', 300, 500);return false;" href="../index/sitemap.php.html" target="_blank">Mapa stránok</a> | <a href="../36-vdok_simple/600s5853c.html">Vyhlásenie o prístupnosti</a></div>
+																			<div class="footer no-text-version"><img height="49" alt="Správca informačného systému: Ministerstvo financií SR" src="../../img.informatizacia.sk/images/footer.gif" width="1002" usemap="#Map" border="0" /> <map id="Map" name="Map"><area shape="rect" target="_blank" alt="http://www.w3c.org" coords="832,8,908,36" href="http://www.w3c.org/" /><area shape="rect" target="_blank" alt="www.blindfriendly.sk" coords="743,8,822,36" href="http://www.blindfriendly.sk" /><area shape="rect" target="_blank" alt="http://www.w3c.org" coords="918,9,994,36" href="http://www.w3c.org/" /></map></div>
+<div class="no-css">© 2009 Ministerstvo financií Slovenskej republiky</div>
+								<!-- /noindex -->
+<div class="no-css"><a href="452s%3F%3Fids=452&amp;page=1&amp;pagec=1.html#top">Začiatok stránky</a></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12463905-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+<!--FOOTER END-->	
