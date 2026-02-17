@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var elemDiv = document.createElement('div');
     elemDiv.className = 'banner-archive';
     elemDiv.innerHTML = "<details><summary>Toto je archívna stránka a nie je aktualizovaná.</summary><p>Aktuálne informácie nájdete na adrese <a href=\"https://mirri.gov.sk/sekcie/informatizacia/\">https://mirri.gov.sk/sekcie/informatizacia</a>.<br/>Pre informácie o archívnom obsahu kontaktujte <a href=\"mailto:tlacove@mirri.gov.sk?subject=Web informatizacia.sk\">tlacove@mirri.gov.sk</a> alebo <a href=\"mailto:informatizacia@mirri.gov.sk?subject=Web informatizacia.sk\">informatizacia@mirri.gov.sk</a></p></details><span class=\"closebtn\" onclick=\"this.parentElement.style.display='none';\">Skryť tento banner</span>";
-    const mainDiv = document.getElementsByClassName("main-holder sub")[0];
+    const mainDiv = document.getElementsByClassName("main-holder")[0];
     document.body.insertBefore(elemDiv, mainDiv);
 });
 
