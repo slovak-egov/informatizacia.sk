@@ -14,6 +14,12 @@ table, td {
   /*font-size:                11px;*/
 }
 
+.banner-archive {width:100%; background-color:#ffc700;padding-left:1em !important;padding-right:1em !important;padding:2em; font-size:1.3em;}
+.banner-archive details {margin:15px}
+.banner-archive summary {font-size:1.5em; color:red; margin: 15px; cursor:pointer;}
+.banner-archive span {border:2px solid transparent; border-radius:5px; padding:8px 10px 7px; background:#126dff; color:white; bold; font-size:1rem; font-weight:700; cursor:pointer;}
+.banner-archive span,.banner-archive li,.banner-archive a {sans-serif !important;} 
+
 
 .main-holder{
   
